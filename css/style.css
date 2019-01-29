@@ -29,6 +29,7 @@ body {
       }
   
     .wrapper {
+      background-color: #84563C;
       display: grid;
       grid-gap: 1em;
       grid-template-areas:
