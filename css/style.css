@@ -1,5 +1,6 @@
 body {
     margin: 40px;
+    background-color:#84563C;
   }
   
   .sidebar {
@@ -72,7 +73,7 @@ body {
   
   .header,
   .footer {
-    background-color:chocolate;
+    background-color:#AAF0D1;
   }
   
   .sidebar2 {
